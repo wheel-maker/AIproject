@@ -6,9 +6,11 @@
 
 ### 二、实验方案设计
 
-![]()
+![](https://github.com/wheel-maker/AIproject/blob/master/imgs/struct.png)
 
 ### 三、界面设计
-
-![]()
+1. **Python界面设计**
+![](https://github.com/wheel-maker/AIproject/blob/master/imgs/ui.png)
+2. **C++界面设计**
+![](https://github.com/wheel-maker/AIproject/blob/master/imgs/cplusplus.png)
 
